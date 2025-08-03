@@ -1,9 +1,9 @@
 """
 
-Bot developed by @Lawxsz credits if you want to redistribute or make new bots with this base please. 
+Bot developed by @Tyson credits if you want to redistribute or make new bots with this base please. 
 Recommendations or code improvements are accepted
 
-For log analysis we use https://github.com/Lawxsz/log-finder/ C++ version, open source and secure! 
+For log analysis we use https://github.com/Tyson9311/log-finder/ C++ version, open source and secure! 
 
 To get Wordlist look for Cloudlogs on telegram or forums, they are free or paid! any of them works fine!
 
